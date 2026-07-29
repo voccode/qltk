@@ -1,0 +1,13 @@
+# Cache python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File log và cấu hình tạm
+*.log
+*.tmp
+*.bak
+
+# Dữ liệu riêng tư/Legacy license
+data/license.json

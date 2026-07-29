@@ -1,0 +1,30 @@
+{
+  "version": "1.0.1",
+  "changelog": "Cập nhật cơ chế license và lưu trữ an toàn ngoài app directory",
+  "files": [
+    {
+      "path": "data/app_gui.py",
+      "url": "https://raw.githubusercontent.com/voccode/qltk/main/data/app_gui.py"
+    },
+    {
+      "path": "data/license_check.py",
+      "url": "https://raw.githubusercontent.com/voccode/qltk/main/data/license_check.py"
+    },
+    {
+      "path": "data/auto_farm.py",
+      "url": "https://raw.githubusercontent.com/voccode/qltk/main/data/auto_farm.py"
+    },
+    {
+      "path": "data/action_monitor.py",
+      "url": "https://raw.githubusercontent.com/voccode/qltk/main/data/action_monitor.py"
+    },
+    {
+      "path": "data/server_position.py",
+      "url": "https://raw.githubusercontent.com/voccode/qltk/main/data/server_position.py"
+    },
+    {
+      "path": "data/auto_heal_utils.py",
+      "url": "https://raw.githubusercontent.com/voccode/qltk/main/data/auto_heal_utils.py"
+    }
+  ]
+}

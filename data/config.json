@@ -1,0 +1,167 @@
+{
+  "radius": "10",
+  "tolerance": "0.6",
+  "device_id": "emulator-5554",
+  "adb_path": "",
+  "saved_locations": [
+    {
+      "name": "Vùng lửa #1",
+      "x": -20.0,
+      "y": 27.0
+    },
+    {
+      "name": "Vùng Lửa #2",
+      "x": 90.0,
+      "y": 95.0
+    },
+    {
+      "name": "Vùng Lửa #3",
+      "x": 102.0,
+      "y": 57.0
+    },
+    {
+      "name": "Vùng Lửa #4",
+      "x": -76.0,
+      "y": -53.0
+    },
+    {
+      "name": "Vùng Lửa #5",
+      "x": -50.0,
+      "y": -58.0
+    },
+    {
+      "name": "Vùng Lửa #6",
+      "x": 61.0,
+      "y": -113.0
+    },
+    {
+      "name": "Vùng Lửa #7",
+      "x": -73.0,
+      "y": -95.0
+    },
+    {
+      "name": "Vùng lửa #9",
+      "x": -81.0,
+      "y": 54.0
+    },
+    {
+      "name": "Vị trí #9",
+      "x": 0.0,
+      "y": 0.0
+    }
+  ],
+  "auto_heal_enabled": true,
+  "auto_heal_percent": "60",
+  "action_log_enabled": false,
+  "device_profiles": {
+    "emulator-5554": {
+      "radius": "10",
+      "tolerance": "0.3",
+      "saved_locations": [
+        {
+          "name": "Vùng lửa #1",
+          "x": -20.0,
+          "y": 27.0
+        },
+        {
+          "name": "Vùng Lửa #2",
+          "x": 90.0,
+          "y": 95.0
+        },
+        {
+          "name": "Vùng Lửa #3",
+          "x": 102.0,
+          "y": 57.0
+        },
+        {
+          "name": "Vùng Lửa #4",
+          "x": -76.0,
+          "y": -53.0
+        },
+        {
+          "name": "Vùng Lửa #5",
+          "x": -50.0,
+          "y": -58.0
+        },
+        {
+          "name": "Vùng Lửa #6",
+          "x": 61.0,
+          "y": -113.0
+        },
+        {
+          "name": "Vùng Lửa #7",
+          "x": -73.0,
+          "y": -95.0
+        },
+        {
+          "name": "Vùng lửa #9",
+          "x": -81.0,
+          "y": 54.0
+        },
+        {
+          "name": "Vị trí #9",
+          "x": 0.0,
+          "y": 0.0
+        }
+      ],
+      "auto_heal_enabled": true,
+      "auto_heal_percent": "60",
+      "auto_revive_enabled": true,
+      "action_log_enabled": false
+    },
+    "emulator-5556": {
+      "radius": "10",
+      "tolerance": "0.6",
+      "saved_locations": [
+        {
+          "name": "Vùng lửa #1",
+          "x": -20.0,
+          "y": 27.0
+        },
+        {
+          "name": "Vùng Lửa #2",
+          "x": 90.0,
+          "y": 95.0
+        },
+        {
+          "name": "Vùng Lửa #3",
+          "x": 102.0,
+          "y": 57.0
+        },
+        {
+          "name": "Vùng Lửa #4",
+          "x": -76.0,
+          "y": -53.0
+        },
+        {
+          "name": "Vùng Lửa #5",
+          "x": -50.0,
+          "y": -58.0
+        },
+        {
+          "name": "Vùng Lửa #6",
+          "x": 61.0,
+          "y": -113.0
+        },
+        {
+          "name": "Vùng Lửa #7",
+          "x": -73.0,
+          "y": -95.0
+        },
+        {
+          "name": "Vùng lửa #9",
+          "x": -81.0,
+          "y": 54.0
+        },
+        {
+          "name": "Vị trí #9",
+          "x": 0.0,
+          "y": 0.0
+        }
+      ],
+      "auto_heal_enabled": false,
+      "auto_heal_percent": "60",
+      "action_log_enabled": false
+    }
+  }
+}
